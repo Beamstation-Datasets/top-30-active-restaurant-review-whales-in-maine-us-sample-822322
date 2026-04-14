@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a state-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in Maine, US",
+  "export_job_id": "899132a3-b3df-499b-90d9-3b60eea5c975",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 822322,
+  "location_name": "Maine",
+  "location_type": "state",
+  "repo_name": "top-30-active-restaurant-review-whales-in-maine-us-sample-822322",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/822322/beamstation_822322_restaurants-us-me_SAMPLE_DIST.csv",
+  "sample_pct": 1.38,
+  "sample_records": 10,
+  "sample_sha256": "478bc96bfd109aa3bb87a3e82b3adeb2223411aa6c8bf87f5ca17e70a8409310",
+  "sample_size_bytes": 56062,
+  "total_records": 725,
+  "updated_at": "2026-03-31T23:55:42.860481+00:00"
+}
