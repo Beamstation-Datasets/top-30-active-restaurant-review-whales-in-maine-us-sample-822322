@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Maine, US
 
-> Free BeamStation sample export with 85 rows and masked direct-contact fields.
+> Free BeamStation sample export with 66 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `822322` |
 | Location | Maine |
 | Category | Restaurants |
-| Full dataset size | 850 records |
-| Free sample size | 85 records (10.0%) |
-| Last export | 2026-04-15T01:41:47.142252+00:00 |
+| Full dataset size | 662 records |
+| Free sample size | 66 records (9.97%) |
+| Last export | 2026-04-22T06:21:22.366756+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-maine-us-sample-822322/releases/download/sample-latest/beamstation_822322_restaurants-us-me_SAMPLE_DIST.csv) |
 
 ## What is in this sample
