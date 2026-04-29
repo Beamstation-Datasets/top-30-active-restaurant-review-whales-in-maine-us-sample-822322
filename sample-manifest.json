@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5c85c7b3-c7ba-457e-9303-361859e0ac54",
+  "export_job_id": "adf06915-06bd-476a-865f-d945b193553b",
   "id_short": 822322,
-  "published_at": "2026-04-22T08:01:28Z",
+  "published_at": "2026-04-29T19:15:47Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-maine-us-sample-822322",
   "sample_asset_name": "beamstation_822322_restaurants-us-me_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/822322/beamstation_822322_restaurants-us-me_SAMPLE_DIST.csv",
-  "sample_records": 66,
-  "sample_sha256": "79a6ded415b0b64b32d3bf6699276cab97b04ae1a0b7c08e6f44f86971639c34",
-  "sample_size_bytes": 282867,
-  "total_records": 662
+  "sample_records": 16,
+  "sample_sha256": "7ade883246355e52d8b81cea932b055746acd7edcc0df6a71c77fd11ed8681ae",
+  "sample_size_bytes": 78435,
+  "total_records": 164
 }
